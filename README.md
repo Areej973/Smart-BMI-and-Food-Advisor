@@ -1,4 +1,5 @@
 # Smart BMI and Food Advisor
+
 <img width="1428" height="741" alt="image" src="https://github.com/user-attachments/assets/2d27067a-cb41-4e80-8090-e9b55594f54c" />
 
 Smart BMI and Food Advisor is a web application built with Streamlit that helps users track their health status, estimate body fat percentage, and receive tailored nutritional advice based on clinical guidelines. The application features a modern, customized health-themed background with adjustable transparency for optimal readability.
